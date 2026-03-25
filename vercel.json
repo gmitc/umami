@@ -1,0 +1,3 @@
+{
+  "buildCommand": "npm-run-all check-env build-db build-tracker build-geo build-app"
+}
